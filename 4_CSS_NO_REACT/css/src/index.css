@@ -1,0 +1,18 @@
+*{
+  margin:0;
+  font-family:Helvetica;
+  padding: 0;
+}
+
+h1{
+  color: aqua;
+}
+
+/* Classe dinâmica */
+
+.red-title{
+  font-size: 50px;
+  color: red;
+  background-color: black;
+}
+
