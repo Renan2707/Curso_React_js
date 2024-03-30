@@ -16,6 +16,7 @@ function App() {
 
     const weightFloat = +weight.replace(",",".");
     const heightFloat = +height.replace(",",".");
+    
 
     const imcResult = (weightFloat/(heightFloat * heightFloat)).toFixed(1)
 
